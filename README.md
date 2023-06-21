@@ -1,6 +1,6 @@
 # Data Analyst Individual Project 2
 
-<p align=left><img src=src/posible_cabecera.jpg><p>
+<p align=center><img src=src/posible_cabecera.jpg><p>
 
 ## 📋 Table of Contents
 
@@ -10,20 +10,20 @@
 4. [Libraries](#libraries)
 5. [License](#license)
 
-## 🧹 1. Web Scrapping `<a name="web scrapping"></a>`
+## 🧹 1. Web Scrapping <a name="web scrapping"></a>
 
 The first to be done in this project, was this process, the csv files , it has to be extracted into a dataframe, cleaned, transformed
 and finally load them into another final csv
 
-## 📊 2. Exploratory Data Analysis, EDA Process `<a name="eda"></a>`
+## 📊 2. Exploratory Data Analysis, EDA Process <a name="eda"></a>
 
 After making the web scrapping process, we aim to make the EDA Process , to look our data with more detail , and decide what changes can we do , to send the data to Power BI and create a Dashboard
 
-## 💡 3. Dashboards `<a name="dashboards"></a>`
+## 💡 3. Dashboards <a name="dashboards"></a>
 
 Here we aim to make the whole dashboard using the data of Udemy and EDX , so we can give a guide to a new startup enterprise at these MOOCs worlds
 
-## ⚙️ 4. Libraries `<a name="libraries"></a>`
+## ⚙️ 4. Libraries <a name="libraries"></a>
 
 This are the needed libraries that allows this project to work correctly.
 
@@ -33,6 +33,6 @@ This are the needed libraries that allows this project to work correctly.
 - matplotlib
 - wordcloud
 
-## 📄 5. License `<a name="license"></a>`
+## 📄 5. License <a name="license"></a>
 
 This project is licensed under the GPL-3.0 license
