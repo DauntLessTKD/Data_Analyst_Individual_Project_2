@@ -1,6 +1,6 @@
 # Data Analyst Individual Project 2
 
-![Project Image](https://drive.google.com/file/d/113F1tw5iUL1YG2tvjV2CfX7AflTPnDSK)
+<p align=left><img src=src/posible_cabecera.jpg><p>
 
 ## 📋 Table of Contents
 
